@@ -1,5 +1,4 @@
 # sql_retail_sales_analysis_project
-# Retail Sales Analysis Using SQL Server
 
 ## Project Overview
 Analyzed retail sales data using SQL Server to identify sales trends, customer purchasing behavior, and product performance.
